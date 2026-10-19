@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/kevin-moukam"><img src="https://img.shields.io/badge/LinkedIn-kevin--moukam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://www.kaggle.com/kevinnkameni"><img src="https://img.shields.io/badge/Kaggle-kevinnkameni-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;<a href="mailto:kevinnkameni@gmail.com"><img src="https://img.shields.io/badge/Email-kevinnkameni%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<img src="https://img.shields.io/badge/Stage_6_mois-Disponible-2ea44f?style=for-the-badge" alt="Stage de 6 mois : disponible" />
+<a href="https://kevin-moukam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kevin--moukam.vercel.app-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/kevin-moukam"><img src="https://img.shields.io/badge/LinkedIn-kevin--moukam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://www.kaggle.com/kevinnkameni"><img src="https://img.shields.io/badge/Kaggle-kevinnkameni-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;<a href="mailto:kevinnkameni@gmail.com"><img src="https://img.shields.io/badge/Email-kevinnkameni%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<img src="https://img.shields.io/badge/Stage_6_mois-Disponible-2ea44f?style=for-the-badge" alt="Stage de 6 mois : disponible" />
 
 </div>
 
@@ -137,7 +137,7 @@ Bot de trading algorithmique connecté à MetaTrader 5 : stratégie, **gestion d
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kevin-moukam"><img src="https://img.shields.io/badge/Discuter_sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discuter sur LinkedIn" /></a>&nbsp;<a href="mailto:kevinnkameni@gmail.com"><img src="https://img.shields.io/badge/M'écrire-par_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="M'écrire par e-mail" /></a>&nbsp;<a href="https://www.kaggle.com/kevinnkameni"><img src="https://img.shields.io/badge/Voir_mes-notebooks_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Voir mes notebooks Kaggle" /></a>
+<a href="https://kevin-moukam.vercel.app"><img src="https://img.shields.io/badge/Voir_mon-portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" alt="Voir mon portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/kevin-moukam"><img src="https://img.shields.io/badge/Discuter_sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discuter sur LinkedIn" /></a>&nbsp;<a href="mailto:kevinnkameni@gmail.com"><img src="https://img.shields.io/badge/M'écrire-par_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="M'écrire par e-mail" /></a>&nbsp;<a href="https://www.kaggle.com/kevinnkameni"><img src="https://img.shields.io/badge/Voir_mes-notebooks_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Voir mes notebooks Kaggle" /></a>
 
 </div>
 
