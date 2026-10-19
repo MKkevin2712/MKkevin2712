@@ -24,9 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,sqlite,sklearn,anaconda,fastapi,docker,git,github,githubactions&perline=12" alt="Python, R, PostgreSQL, MySQL, SQLite, scikit-learn, Anaconda, FastAPI, Docker, Git, GitHub, GitHub Actions" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,java,spring,hibernate,nodejs,nestjs,php,supabase,linux,powershell,vscode&perline=16" alt="React, TypeScript, JavaScript, Vite, HTML, CSS, Java, Spring, Hibernate, Node.js, NestJS, PHP, Supabase, Linux, PowerShell, VS Code" />
+<img src="https://skillicons.dev/icons?i=py,r,postgres,sqlite,sklearn,fastapi,docker,git,github,githubactions,react,ts&perline=12" alt="Python, R, PostgreSQL, SQLite, scikit-learn, FastAPI, Docker, Git, GitHub, GitHub Actions, React, TypeScript" />
 
 <br/><br/>
 
@@ -54,10 +52,9 @@
 |---|---|
 | **Risque de crédit** | Scorecard (WoE / IV), probabilité de défaut, calibration, LGD, perte attendue, politique d'octroi |
 | **Statistique & ML** | Régression logistique, économétrie, séries temporelles, LightGBM, Optuna, SHAP, scikit-learn |
-| **Langages** | Python, SQL, R, Stata, SAS (en formation), TypeScript, Java |
-| **Données** | PostgreSQL, DuckDB, MySQL, SQLite, dbt, Airflow, Supabase, Excel (Power Query, Power Pivot) |
-| **Mise en production** | FastAPI, Docker, Streamlit, React, GitHub Actions, pytest |
-| **Développement web** | React, Vite, Spring Boot, Hibernate / JPA, NestJS, Node.js, PHP, API REST |
+| **Langages** | Python, SQL, R, Stata, SAS (en formation) |
+| **Données** | PostgreSQL, DuckDB, SQLite, dbt, Airflow, Excel (Power Query, Power Pivot) |
+| **Mise en production** | FastAPI, Docker, Streamlit, React / TypeScript, GitHub Actions, pytest |
 
 </details>
 
