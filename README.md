@@ -69,11 +69,11 @@
 
 ### 💳 [Scoring du risque de crédit](https://github.com/MKkevin2712/credit-risk-scoring)
 
-Modèle complet sur **307 000 demandes de prêt** : scorecard (WoE / IV, régression logistique), **LightGBM (AUC 0,79)** expliqué avec SHAP, probabilités de défaut calibrées et politique d'octroi (**+22 %** de rentabilité). API FastAPI, démo en ligne, 34 tests.
+Modèle complet sur **307 000 demandes de prêt** : scorecard (WoE / IV, régression logistique), **LightGBM (AUC 0,79)** expliqué avec SHAP, probabilités de défaut calibrées et politique d'octroi (**+22 %** de rentabilité). API FastAPI, 34 tests.
 
-`Python` `SQL` `LightGBM` `SHAP` `FastAPI` `Streamlit`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/LightGBM-3E8E41?style=flat" alt="LightGBM" /> <img src="https://img.shields.io/badge/SHAP-FF0D57?style=flat" alt="SHAP" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
 
-🔗 [Démo en ligne](https://credit-risk-scoring-v3skumb2upo62popkvb4xs.streamlit.app/) · [Notebook Kaggle](https://www.kaggle.com/code/kevinnkameni/credit-risk-scoring-sql-lightgbm-shap)
+🔗 [Démo](https://credit-risk-scoring-v3skumb2upo62popkvb4xs.streamlit.app/) · 📓 [Kaggle](https://www.kaggle.com/code/kevinnkameni/credit-risk-scoring-sql-lightgbm-shap) · 💻 [Code](https://github.com/MKkevin2712/credit-risk-scoring)
 
 </td>
 <td width="50%" valign="top">
@@ -82,9 +82,9 @@ Modèle complet sur **307 000 demandes de prêt** : scorecard (WoE / IV, régres
 
 Chaîne de données automatisée sur les données publiques DVF : **2,3 millions de lignes → 608 000 ventes fiabilisées**, contrôlées par **25 tests dbt**, orchestrées par Airflow, servies par une API et un tableau de bord React.
 
-`Python` `dbt` `Airflow` `PostgreSQL` `Docker` `React`
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat" alt="dbt" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
 
-🔗 [Tableau de bord](https://mkkevin2712.github.io/dvf-pipeline/) · [Dataset Kaggle](https://www.kaggle.com/datasets/kevinnkameni/french-housing-prices-dvf)
+🔗 [Démo](https://mkkevin2712.github.io/dvf-pipeline/) · 📦 [Dataset Kaggle](https://www.kaggle.com/datasets/kevinnkameni/french-housing-prices-dvf) · 💻 [Code](https://github.com/MKkevin2712/dvf-pipeline)
 
 </td>
 </tr>
@@ -93,9 +93,11 @@ Chaîne de données automatisée sur les données publiques DVF : **2,3 millions
 
 ### 📈 [Bot de trading forex](https://github.com/MKkevin2712/forex-bot)
 
-Bot de trading algorithmique connecté à MetaTrader 5 : stratégie, **gestion du risque** (taille de position, stop-loss), backtesting, journal des ordres, API FastAPI et tableau de bord React. Fonctionne en simulation, 46 tests.
+Bot de trading algorithmique connecté à MetaTrader 5 : stratégie, **gestion du risque** (taille de position, stop-loss), backtesting, journal des ordres, API et tableau de bord React. Fonctionne en simulation, 46 tests.
 
-`Python` `MetaTrader 5` `FastAPI` `React` `SQLite`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/MetaTrader_5-4A76B8?style=flat" alt="MetaTrader 5" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+
+💻 [Code](https://github.com/MKkevin2712/forex-bot)
 
 </td>
 <td width="50%" valign="top">
@@ -106,17 +108,41 @@ Bot de trading algorithmique connecté à MetaTrader 5 : stratégie, **gestion d
 - [French housing prices 2021–2025 : analyse SQL](https://www.kaggle.com/code/kevinnkameni/french-housing-prices-2021-2025-sql-analysis)
 - [Dataset : French Housing Prices DVF (Cleaned)](https://www.kaggle.com/datasets/kevinnkameni/french-housing-prices-dvf)
 
-`DuckDB` `SQL` `pandas` `Plotly`
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" alt="DuckDB" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" /> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
+
+📓 [Profil Kaggle](https://www.kaggle.com/kevinnkameni)
 
 </td>
 </tr>
 </table>
+
+## 💼 Expérience
+
+- **TRANSRED** (oct. 2024 – févr. 2025) — Stagiaire Analyste junior & Modélisation : analyses statistiques sur plus de 50 000 observations logistiques et financières pour évaluer la faisabilité économique de projets
+- **Cyna Defense** (projet de formation) — Ingénieur data / backend : import automatisé de fichiers Excel / CSV vers PostgreSQL, tableau de bord des indicateurs de chiffre d'affaires
 
 ## 🎓 Parcours
 
 - **DU Big Data, Data Science et Analyse des Risques sous Python**, Université de Montpellier · 2026 – 2027
 - **Bachelor 3 Développement et Data**, INGETIS Paris · 2025 – 2026
 - **Master 1 Économétrie et Politiques Économiques** · 2023 – 2024
+
+## 📈 Activité GitHub
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MKkevin2712&theme=tokyonight&hide_border=true&locale=fr" height="165" alt="Série de contributions GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKkevin2712&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html&langs_count=8" height="165" alt="Langages les plus utilisés" />
+
+</div>
+
+## 📫 Me contacter
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kevin-moukam"><img src="https://img.shields.io/badge/Discuter_sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discuter sur LinkedIn" /></a>&nbsp;<a href="mailto:kevinnkameni@gmail.com"><img src="https://img.shields.io/badge/M'écrire-par_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="M'écrire par e-mail" /></a>&nbsp;<a href="https://www.kaggle.com/kevinnkameni"><img src="https://img.shields.io/badge/Voir_mes-notebooks_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Voir mes notebooks Kaggle" /></a>
+
+</div>
 
 <div align="center">
 
