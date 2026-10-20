@@ -115,7 +115,9 @@ Bot de trading algorithmique connecté à MetaTrader 5 : stratégie, **gestion d
 
 ## 💼 Expérience
 
-- **TRANSRED** (oct. 2024 – févr. 2025) — Stagiaire Analyste junior & Modélisation : analyses statistiques sur plus de 50 000 observations logistiques et financières pour évaluer la faisabilité économique de projets
+- **TRANSPRED** (nov. 2024 – févr. 2025) — Stagiaire Analyste junior & Modélisation : analyses statistiques sur plus de 50 000 observations pour évaluer la faisabilité économique de projets, études de marché, appui à la gestion de projet
+- **TRANSPRED** (avr. – juin 2023) — Stagiaire Analyse de la performance industrielle : évaluation de l'efficacité des processus de production
+- **EQUIPEA** (juin – juil. 2022) — Stagiaire Analyse économique et financière : analyse de bilans et de comptes de résultat, indicateurs financiers
 - **Cyna Defense** (projet de formation) — Ingénieur data / backend : import automatisé de fichiers Excel / CSV vers PostgreSQL, tableau de bord des indicateurs de chiffre d'affaires
 
 ## 🎓 Parcours
